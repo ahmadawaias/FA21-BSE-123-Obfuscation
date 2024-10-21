@@ -1,0 +1,26 @@
+version: 2.10.0
+apkFileName: com.sec.android.app.launcher_901207050_apps.evozi.com.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 24
+  targetSdkVersion: 27
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 901207050
+  versionName: 9.0.12.50
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  SEC-INF/buildConfirm.crt: 8
+  SEC-INF/buildinfo.xml: 8
+doNotCompress:
+- resources.arsc
+- png
+- jpg
